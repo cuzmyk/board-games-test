@@ -1979,13 +1979,13 @@ FIREBASE: `))}restoreState_(){this.tryAuth(),this.tryAppCheck();for(const t of t
         font-family: 'PTSans';
         font-style: normal;
         font-weight: 700;
-        src: url("../fonts/PTSans-Bold.ttf") format("truetype");
+        src: url("./../fonts/PTSans-Bold.ttf") format("truetype");
       }
 
       @font-face {
         font-family: 'PTSans';
         font-style: normal;
         font-weight: 500;
-        src: url("../fonts/PTSans-Regular.ttf")  format("truetype");
+        src: url("./../fonts/PTSans-Regular.ttf")  format("truetype");
       }
     `});Sv.createRoot(document.getElementById("root")).render(k.jsxs(tq,{theme:cie,children:[k.jsx(uie,{}),k.jsx(nie,{})]}))});export default die();
